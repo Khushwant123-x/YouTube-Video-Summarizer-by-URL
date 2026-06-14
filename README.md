@@ -43,7 +43,8 @@ youtube-video-summarizer/
 ```
 
 ---
-
+### Architecture
+ ![Architecture Of Project](YoutubeVideoSummarizerArchitecture.png)
 ## ⚙️ Installation
 
 ### Clone Repository
